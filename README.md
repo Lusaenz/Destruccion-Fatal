@@ -41,7 +41,7 @@ El juego incluye un sistema de UI con un menú principal que permite seleccionar
 
 ## Demo del Juego
 
-Puedes jugar el juego en Itch.io aquí: [[Enlace](https://lusaenz.itch.io/destruccion-fatal)]
+Puedes jugar el juego en Itch.io aquí: [[Destruccion Fatal](https://lusaenz.itch.io/destruccion-fatal)]
 
 ## Contribuciones
 
