@@ -39,6 +39,10 @@ El juego incluye un sistema de UI con un menú principal que permite seleccionar
 - **Clic izquierdo** del mouse para eliminar objetos.
 - Navegación en el menú para seleccionar la dificultad y controlar la música.
 
+## Demo del Juego
+
+Puedes jugar el juego en Itch.io aquí: [[Enlace](https://lusaenz.itch.io/destruccion-fatal)]
+
 ## Contribuciones
 
 Si deseas contribuir, puedes enviar un **pull request** con mejoras o sugerencias.
